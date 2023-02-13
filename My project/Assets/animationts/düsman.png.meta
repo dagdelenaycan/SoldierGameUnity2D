@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 324773e87da5c3342a4059269de41d53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6745857458993569199
+    second: "d\xFCsman_0"
+  - first:
+      213: 8919359757819297908
+    second: "d\xFCsman_1"
+  - first:
+      213: 8982776162359630620
+    second: "d\xFCsman_2"
+  - first:
+      213: -1821213679427340517
+    second: "d\xFCsman_3"
+  - first:
+      213: 8692783677964584645
+    second: "d\xFCsman_4"
+  - first:
+      213: 1334432032587852929
+    second: "d\xFCsman_5"
+  - first:
+      213: 5921064542873962087
+    second: "d\xFCsman_6"
+  - first:
+      213: 3679426112829506039
+    second: "d\xFCsman_7"
+  - first:
+      213: 7612455471064658703
+    second: "d\xFCsman_8"
+  - first:
+      213: 7353325312896018040
+    second: "d\xFCsman_9"
+  - first:
+      213: -5163722133282550445
+    second: "d\xFCsman_10"
+  - first:
+      213: 6679497468512164648
+    second: "d\xFCsman_11"
+  - first:
+      213: 1386950820073782553
+    second: "d\xFCsman_12"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "d\xFCsman_0"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 34
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152e443d166e162a0800000000000000
+      internalID: -6745857458993569199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_1"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 34
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470cbb4617ee7cb70800000000000000
+      internalID: 8919359757819297908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_2"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 34
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bda4ea35b39ac70800000000000000
+      internalID: 8982776162359630620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_3"
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 34
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b6a9cecfb9b6e0800000000000000
+      internalID: -1821213679427340517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_4"
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 34
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68462e2b8f2a870800000000000000
+      internalID: 8692783677964584645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_5"
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 34
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c2d4f0ddad48210800000000000000
+      internalID: 1334432032587852929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_6"
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 34
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766c922a4d8db2250800000000000000
+      internalID: 5921064542873962087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_7"
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 34
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1cf702e82ff0330800000000000000
+      internalID: 3679426112829506039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_8"
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 34
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03b94d1befd4a960800000000000000
+      internalID: 7612455471064658703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_9"
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 34
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762e0999624c0660800000000000000
+      internalID: 7353325312896018040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_10"
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 34
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d0fde0416c658b0800000000000000
+      internalID: -5163722133282550445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_11"
+      rect:
+        serializedVersion: 2
+        x: 4024
+        y: 34
+        width: 21
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd9c0ee8752bc50800000000000000
+      internalID: 6679497468512164648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "d\xFCsman_12"
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 34
+        width: 21
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3f672c607f3310800000000000000
+      internalID: 1386950820073782553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
